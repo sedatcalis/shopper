@@ -1,8 +1,8 @@
-# React + Vite
+Hello! 
+This project is an application I designed using React, where users can add,
+remove items from their shopping cart, and view the total price. 
+I specifically implemented state management using React's Context API,
+aiming to provide users with an interactive shopping experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Adsız tasarım](https://github.com/sedatcalis/shopper/assets/140658531/355f8a8b-bded-4d42-8a16-c1c7ae36acaf)
